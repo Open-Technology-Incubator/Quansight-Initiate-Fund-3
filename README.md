@@ -16,7 +16,7 @@
 - **Tube:** white background, light gray outline.
 - **Ticks:** Major every **$100k**, minor every **$50k**.
 - Tracks **capital commitments** (not cash collections which will occur later via capital calls).
-- For general info only—not an offer or solicitation. Any potential opportunity would be offered separately to qualified investors via formal documents.
+- For general info and context only—not an offer or solicitation. Any potential opportunity would be offered separately to qualified investors via formal documents.
 
 ## License
 © 2025 Bradden Blair, Ph.D. Licensed under the Apache License, Version 2.0.  
