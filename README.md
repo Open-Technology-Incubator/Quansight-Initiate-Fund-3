@@ -15,7 +15,7 @@
 - **Bulb:** white at $0; turns **red** once the segment > $0.
 - **Tube:** white background, light gray outline.
 - **Ticks:** Major every **$100k**, minor every **$50k**.
-- Tracks **capital commitments** (not cash collections).
+- Tracks **capital commitments** (not cash collections which will occur later via capital calls).
 
 ## License
 © 2025 Bradden Blair, Ph.D. Licensed under the Apache License, Version 2.0.  
